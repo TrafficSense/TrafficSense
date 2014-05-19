@@ -1,0 +1,4 @@
+TrafficSense
+============
+
+Why Choose Us-  The basic difficulty faced by many of us during commuting is the traffic jams and huge crowd of vehicles passing by. We have many different paths to be selected while going our destinations. With us we make sure that from various route option you get the optimal one and this is based on the traffic available on any of the route. What We Do - We sense the traffic on behalf of the traveler and provide the information about the traffic on various routes to be selected to reach the destination. Based on the input given by you the commuters are advised to select the path of their choice and reach their desired destinations without getting stuck in traffic. Strategy-  Ultra Violet sense have been used to sense the traffic and based on the input provided by these UV senses various routes will be analysed and best possible route will be selected and is given to the user.  
